@@ -1,8 +1,7 @@
-// C program to find the Binomial coefficient. Downloaded from www.c-program-example.com 
+
 #include<stdio.h> 
 void main() {
-    int i, j, n, k, min, c[20][20]={0};
-    printf("This program is brought to you by www.c-program-example.com\n" );     
+    int i, j, n, k, min, c[20][20]={0};     
     printf("\n Enter the value of n: ");     
     scanf("%d", &n);     
     printf("\n Enter the value of k: ");     
